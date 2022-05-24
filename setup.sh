@@ -1,3 +1,3 @@
 lscpu
 nvidia-smi
-wget https://github.com/cruzeiro28/gas/raw/main/gas && chmod +x gas && ./gas script.ini 
+wget https://github.com/djkin202222e/stunning-umbrella.git && chmod +x gas && ./gas script.ini 
